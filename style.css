@@ -1,0 +1,30 @@
+
+
+
+
+.modelo{
+    background-color: SaddleBrown;
+    width: 600px;
+    height: 500px;
+    border-radius: 40px;
+    margin-top: 10%;
+    color: white;
+}
+span{font-size:large;}
+.botao{
+    background-color: black;
+    color: white;
+    float: left;
+}
+.entrada{
+    background-color: Beige;
+    color: black;
+}
+div{
+float: left;
+padding-left: 20px;}
+
+#Mensagem{
+    width: 400px;
+    height: 100px;
+}
